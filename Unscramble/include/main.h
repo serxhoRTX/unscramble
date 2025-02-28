@@ -99,7 +99,7 @@ public:
         }
     }
     void fallbackFunction(const endstone::Player &player){
-    /* write you're code below  here are some examples
+    /* write yourp code below  here are some examples
         player.sendMessage("hello");
         player.sendMessage("hello " + player.getName()); */
 
