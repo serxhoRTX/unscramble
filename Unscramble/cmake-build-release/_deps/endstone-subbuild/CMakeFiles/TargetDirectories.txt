@@ -1,0 +1,3 @@
+C:/Users/serxh/CLionProjects/Unscramble/cmake-build-release/_deps/endstone-subbuild/CMakeFiles/endstone-populate.dir
+C:/Users/serxh/CLionProjects/Unscramble/cmake-build-release/_deps/endstone-subbuild/CMakeFiles/edit_cache.dir
+C:/Users/serxh/CLionProjects/Unscramble/cmake-build-release/_deps/endstone-subbuild/CMakeFiles/rebuild_cache.dir

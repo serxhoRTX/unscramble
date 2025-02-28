@@ -1,0 +1,35 @@
+# How Much Time In Minutes Players Have To Guess The Word
+
+Time-interval: 10
+
+# Important Notice:
+# This plugin is currently not integrated with any economy API. However, there is a fallback
+# function provided for your customization. You can find this function in the src/main.cpp file,
+# where you are free to implement your desired functionality.
+
+Message : "... absolutely nothing! But hey, great job!"
+
+# Add Words As The Example Shows Or Remove As You Please
+
+Words:
+  - adventure
+  - bicycle
+  - creativity
+  - discovery
+  - elephant
+  - fortune
+  - galaxy
+  - harmony
+  - innovation
+  - journey
+  - knowledge
+  - library
+  - mountain
+  - notebook
+  - ocean
+  - puzzle
+  - question
+  - rhythm
+  - sunset
+  - treasure
+  - universe

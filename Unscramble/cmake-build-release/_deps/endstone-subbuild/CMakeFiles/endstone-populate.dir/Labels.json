@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/serxh/CLionProjects/Unscramble/cmake-build-release/_deps/endstone-subbuild/CMakeFiles/endstone-populate"
+		},
+		{
+			"file" : "C:/Users/serxh/CLionProjects/Unscramble/cmake-build-release/_deps/endstone-subbuild/CMakeFiles/endstone-populate.rule"
+		},
+		{
+			"file" : "C:/Users/serxh/CLionProjects/Unscramble/cmake-build-release/_deps/endstone-subbuild/CMakeFiles/endstone-populate-complete.rule"
+		},
+		{
+			"file" : "C:/Users/serxh/CLionProjects/Unscramble/cmake-build-release/_deps/endstone-subbuild/endstone-populate-prefix/src/endstone-populate-stamp/endstone-populate-build.rule"
+		},
+		{
+			"file" : "C:/Users/serxh/CLionProjects/Unscramble/cmake-build-release/_deps/endstone-subbuild/endstone-populate-prefix/src/endstone-populate-stamp/endstone-populate-configure.rule"
+		},
+		{
+			"file" : "C:/Users/serxh/CLionProjects/Unscramble/cmake-build-release/_deps/endstone-subbuild/endstone-populate-prefix/src/endstone-populate-stamp/endstone-populate-download.rule"
+		},
+		{
+			"file" : "C:/Users/serxh/CLionProjects/Unscramble/cmake-build-release/_deps/endstone-subbuild/endstone-populate-prefix/src/endstone-populate-stamp/endstone-populate-install.rule"
+		},
+		{
+			"file" : "C:/Users/serxh/CLionProjects/Unscramble/cmake-build-release/_deps/endstone-subbuild/endstone-populate-prefix/src/endstone-populate-stamp/endstone-populate-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/serxh/CLionProjects/Unscramble/cmake-build-release/_deps/endstone-subbuild/endstone-populate-prefix/src/endstone-populate-stamp/endstone-populate-patch.rule"
+		},
+		{
+			"file" : "C:/Users/serxh/CLionProjects/Unscramble/cmake-build-release/_deps/endstone-subbuild/endstone-populate-prefix/src/endstone-populate-stamp/endstone-populate-test.rule"
+		},
+		{
+			"file" : "C:/Users/serxh/CLionProjects/Unscramble/cmake-build-release/_deps/endstone-subbuild/endstone-populate-prefix/src/endstone-populate-stamp/endstone-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"endstone-populate"
+		],
+		"name" : "endstone-populate"
+	}
+}

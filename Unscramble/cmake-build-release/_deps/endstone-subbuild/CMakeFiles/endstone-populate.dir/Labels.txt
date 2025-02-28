@@ -1,0 +1,14 @@
+# Target labels
+ endstone-populate
+# Source files and their labels
+C:/Users/serxh/CLionProjects/Unscramble/cmake-build-release/_deps/endstone-subbuild/CMakeFiles/endstone-populate
+C:/Users/serxh/CLionProjects/Unscramble/cmake-build-release/_deps/endstone-subbuild/CMakeFiles/endstone-populate.rule
+C:/Users/serxh/CLionProjects/Unscramble/cmake-build-release/_deps/endstone-subbuild/CMakeFiles/endstone-populate-complete.rule
+C:/Users/serxh/CLionProjects/Unscramble/cmake-build-release/_deps/endstone-subbuild/endstone-populate-prefix/src/endstone-populate-stamp/endstone-populate-build.rule
+C:/Users/serxh/CLionProjects/Unscramble/cmake-build-release/_deps/endstone-subbuild/endstone-populate-prefix/src/endstone-populate-stamp/endstone-populate-configure.rule
+C:/Users/serxh/CLionProjects/Unscramble/cmake-build-release/_deps/endstone-subbuild/endstone-populate-prefix/src/endstone-populate-stamp/endstone-populate-download.rule
+C:/Users/serxh/CLionProjects/Unscramble/cmake-build-release/_deps/endstone-subbuild/endstone-populate-prefix/src/endstone-populate-stamp/endstone-populate-install.rule
+C:/Users/serxh/CLionProjects/Unscramble/cmake-build-release/_deps/endstone-subbuild/endstone-populate-prefix/src/endstone-populate-stamp/endstone-populate-mkdir.rule
+C:/Users/serxh/CLionProjects/Unscramble/cmake-build-release/_deps/endstone-subbuild/endstone-populate-prefix/src/endstone-populate-stamp/endstone-populate-patch.rule
+C:/Users/serxh/CLionProjects/Unscramble/cmake-build-release/_deps/endstone-subbuild/endstone-populate-prefix/src/endstone-populate-stamp/endstone-populate-test.rule
+C:/Users/serxh/CLionProjects/Unscramble/cmake-build-release/_deps/endstone-subbuild/endstone-populate-prefix/src/endstone-populate-stamp/endstone-populate-update.rule
